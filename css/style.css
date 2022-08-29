@@ -1,0 +1,46 @@
+#navbar{
+    background-color:#1D3557;
+    color: azure;
+}
+#navbar a{
+    color: white;
+}
+body{
+    background-color: #F1FAEE;
+}
+#color, a{
+    background-color:#1D3557 ;
+    color: white ;
+}
+footer{
+    height: 40px;
+   
+}
+footer p{
+    line-height: 40px;
+}
+#sheikh{
+    line-height: 40px;
+}
+.box button{
+    border-radius: 5px;
+   /* background-color:#dc143c; */
+   color: white;
+    margin: 2px;
+
+}
+.box button:hover{
+   /* background-color: #CEFF00; */
+   color: black;
+   transition: 0.5s;
+}
+h2{
+    font-family:sans-serif ;
+    color:#1D3557 ;
+}
+#output ul li{
+    text-align: justify;
+}
+#Clear-statement{
+   padding: 8px;
+}
